@@ -3,7 +3,9 @@
 Data samples are present in samples.csv file.
 
 #######################################################
+
 Below is the column description:
+
 1). text: contains review text
 2). aspect terms:  aspect terms present in the review
 3). aspect_term_sentiments: sentiment of each aspect term (separated by comma)
@@ -12,7 +14,9 @@ Below is the column description:
 6). Image_Filename: image name
 
 ######################################################
+
 All the images are present in images folder.
+
 ######################################################
 
 
