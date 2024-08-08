@@ -25,4 +25,3 @@ All the images are present in images folder.
 ######################################################
 
 
-We will share the complete dataset to community after acceptance of the paper.
