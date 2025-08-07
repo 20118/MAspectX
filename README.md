@@ -1,4 +1,4 @@
-# MAspectX
+# Aspect-Based Multimodal Mining: Unveiling Sentiments, Complaints, and Beyond in User-Generated Content (MAspectX)
 This repository contains the dataset for our paper:
 "Aspect-Based Multimodal Mining: Unveiling Sentiments, Complaints, and Beyond in User-Generated Content" published in Proceedings of the 32nd ACM International Conference on Multimedia.
 
