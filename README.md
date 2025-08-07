@@ -1,4 +1,6 @@
 # MAspectX
+This repo contains dataset of our paper "Aspect-Based Multimodal Mining: Unveiling Sentiments, Complaints, and Beyond in User-Generated Content" published in Proceedings of the 32nd ACM International Conference on Multimedia.
+
 
 Data samples are present in samples.csv file.
 
